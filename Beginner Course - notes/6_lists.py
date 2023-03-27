@@ -58,3 +58,5 @@ print(friends)
 # copy
 friends2 = friends.copy()
 print(friends2)
+
+# 1:18:59
