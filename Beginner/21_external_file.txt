@@ -3,3 +3,5 @@ Dwight - Salesman
 Pam - Receptionist
 Micheal - Mananger
 Oscar - Accountant
+Toby - Human Resources
+Kelly - Customer Service
