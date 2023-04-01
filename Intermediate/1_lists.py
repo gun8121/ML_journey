@@ -111,3 +111,8 @@ print(list_org)
 # list_cpy = list_org[:] slicing
 
 # list comprehension
+ab = [1,2,3,4,5,6]
+bc = [i*i for i in ab] # 
+
+print(ab)
+print(bc)
